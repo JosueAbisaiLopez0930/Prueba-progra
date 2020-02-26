@@ -1,0 +1,21 @@
+div.contenedor{
+
+}
+
+div .titulo{
+
+}
+
+.lista{
+    margin: auto;
+    background-color: azure;
+}
+
+.lista:hover{
+    background-color: blue;
+}
+
+
+a[heref^=pdf]{
+    
+}

@@ -1,0 +1,32 @@
+.fila{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.casilla{
+    padding: 10px;
+    width: 200px;
+}
+
+span{
+    width: 10px;
+    color: #999;
+}
+
+input{
+    padding: 10px;
+    border-bottom-color: #474747 ;
+}
+
+input:hover{
+    border-bottom-color: #3CCAE0;
+    transition: 0.5s;
+}
+
+label{
+    color:#1E1E1E;
+    width: 18px; 
+}
+
